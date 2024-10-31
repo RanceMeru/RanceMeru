@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RanceMeru 
-- 👀 I’m interested in becoming a software developer and creating my own successful app or program.
-- 🌱 I’m currently learning C# .
-- 💞️ I’m looking to collaborate on any thing related to addvice or anyone is also jsut starting out so we can collab.
+- 👀 I’m interested in becoming a Web developer and growing alongside a company that will give me the chance to grow.
+- 🌱 I’m currently learning HTML, CSS and JavaScropt .
+- 💞️ I’m looking to collaborate on any thing related to Web Development and programming with other programming languages and someone who will work with and or mentor me.
 - 📫 How you can reaach me is sending me an email on johgu.829@gmail.com
 
 <!---
