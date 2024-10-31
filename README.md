@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RanceMeru 
 - 👀 I’m interested in becoming a Web developer and growing alongside a company that will give me the chance to grow.
-- 🌱 I’m currently learning HTML, CSS and JavaScropt .
+- 🌱 I’m currently learning HTML, CSS and JavaScript .
 - 💞️ I’m looking to collaborate on any thing related to Web Development and programming with other programming languages and someone who will work with and or mentor me.
 - 📫 How you can reaach me is sending me an email on johgu.829@gmail.com
 
